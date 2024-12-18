@@ -10,6 +10,10 @@ function clearDisplay() {
     display.value = "";
 }
 
+function clearall() {
+    display.value = "";
+}
+
 // Calculate the result
 function calculateResult() {
     try {
